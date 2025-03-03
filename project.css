@@ -1,0 +1,301 @@
+.logo{
+    height: 20px;
+    width: 20px;
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+#p1{
+    text-align: center;
+}
+.a1{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+hr{
+    margin-top: -20px;
+}
+#container2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#subcontainer2{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    
+    
+}
+.a2{
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
+.a3{
+    margin: 15px;
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.a4{
+    margin:10px ;
+    color: black;
+    text-decoration: none;
+}
+select{
+    height: 22px;
+    width: 70px;
+    margin: auto;
+    
+}
+
+.imgs1{
+    width: 300px;
+    height: 400px;
+}
+.slide1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+}
+.imgs1{
+    height: 400px;
+    width: 500px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.imgs2{
+    height: 400px;
+    width: 500px;
+    margin-bottom: 30px;
+    border-radius: 20px;   
+    margin-right: 50px;
+}
+.slide2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+}
+.imgs3{
+    height: 400px;
+    width: 500px;
+    margin-bottom: 30px;
+    border-radius: 20px;   
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.imgs4{
+    height: 400px;
+    width: 500px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.slide3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+}
+.imgs5{
+    height: 400px;
+    width: 500px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.imgs6{
+    height: 400px;
+    width: 500px;
+    margin-bottom: 30px;
+    border-radius: 20px;   
+    margin-right: 50px;
+    margin-top: 20px;
+}
+#container3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+    background-color: dimgray;
+    height: 250PX;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+#coupons{
+    height: 100px;
+    padding: 20px;
+    font-size: large;
+}
+.btn1{
+    padding-top: 10px;
+    width: 150px;
+    margin-top: 40px;
+}
+#container4{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+#container5{
+    display: flex;
+    margin: 10px;
+}
+.card2{
+    margin: 10px;
+}
+#container6{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+.boot{
+    width: 600px;
+    height: 500px;
+    border-radius: 20px;
+    
+}
+
+#container7{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+#container8{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    margin-bottom: 130px;
+}
+.card3{
+    margin: 10px;
+}
+#container9{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+.footer1{
+    margin-left: 25px;
+}
+.footer6{
+    margin-right: 20px;
+}
+#container10{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-left: 25px;
+}
+#container11{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    
+}
+.formal{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.formal1{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+#input30{
+    width: 300px;
+}
+#input31{
+    width: 300px;
+}
+#span3{
+    color: blue;
+}
+.forgot1{
+    text-align: center;
+    margin-left: 70px;
+    text-decoration: none;
+}
+#loginform{
+    border: 40px solid, whitesmoke;
+}
+#page56{
+    border: none;
+}
+#page57{
+    border: none;
+}
+#cartimages{
+    height: 100px;
+    width: 100px;
+}
+#cart2g{
+    display: flex;
+    flex-direction: row;
+}
+#card1i{
+    margin-top: -30px;
+}
+#card1ii{
+    margin-top: -20px;
+    font-weight: bold;
+}
+#card1iii{
+    border-radius: 8px;
+}
+#signup1{
+    width: 500px;
+    margin-left: 400px;
+    margin-bottom:50px ;
+    border: 20px, thin, whitesmoke;
+}
+#inputi{
+    width: 470px;
+    height: 30px;
+}
+#hr2{
+    /* text-align: center; */
+    width: 500px;
+    margin-right: 70px;
+    margin-bottom: 10px;
+}
+.pee{
+    text-align: center;
+    margin-left: 150px;
+}
+#button8{
+    margin-left: 120px;
+    width: 250px;
+    background-color: green;
+    height: 30px;
+    border-radius: 10px;
+}
+.upper{
+    margin-left: 150px;
+    margin-top:-20px ;
+}.pee2{
+    margin-top: -20px;
+    margin-left: 20px;
+}
+#theme{
+    text-align: center;
+    margin-bottom: 40px;
+    color: blue;
+}
+#inline{
+    text-decoration: none;
+}
+body{
+    background-color: aliceblue;
+}
